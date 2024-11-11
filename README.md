@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+
+# Project Name
+A simple description of the project with a typo fix.
